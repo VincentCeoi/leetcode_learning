@@ -1,6 +1,8 @@
 from typing import List
 
 
+# https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/solutions/
+# 青蛙跳台阶，用深度优先搜索，并且使用Memory ，记录已经走过的路
 class Solution:
 
     def __init__(self):
